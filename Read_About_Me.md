@@ -1,0 +1,5 @@
+- 👋🙂 Hi, I’m @Kaustubha Pundir from India
+- 👀 I’m interested in Programming and Game Developing
+- 🎓🌱 I’m currently learning Java and Python and 11th standard
+- 💞️ I’m looking to collaborate on any projects with Java and Python and also with  
+- 📫 Contact me with kaustubhapundir@gmail.com
